@@ -1,0 +1,42 @@
+_repo: Lay-Morals-and-Other-Papers_373
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Stevenson, Fanny Van de Grift
+    aliases:
+    - Osbourne, Fanny Van de Grift
+    - Vandergrift, Fanny
+    - Stevenson, Frances Matilda Van de Grift
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '334'
+    url: http://www.gutenberg.org/2009/agents/334
+    wikipedia: http://en.wikipedia.org/wiki/Fanny_Stevenson
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '1995-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: Preface by Mrs. Robert Louis Stevenson -- Lay morals -- Father Damien
+  -- The Pentland rising -- The day after to-morrow -- College papers -- Criticisms
+  -- Sketches -- The Great North Road -- The young chevalier -- Heathercat.
+title: Lay Morals, and Other Papers
+url: http://www.gutenberg.org/ebooks/373
