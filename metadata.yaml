@@ -1,5 +1,5 @@
 _repo: Lay-Morals-and-Other-Papers_373
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Stevenson, Fanny Van de Grift
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '334'
     url: http://www.gutenberg.org/2009/agents/334
     wikipedia: http://en.wikipedia.org/wiki/Fanny_Stevenson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/373#Lay-Morals-and-Other-Papers
 gutenberg_issued: '1995-12-01'
 gutenberg_type: Text
 identifiers:
